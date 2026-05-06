@@ -32,4 +32,4 @@
 
 [Cyber Threat Intelligence](https://start.me/p/wMrA5z/cyber-threat-intelligence)
 
-[OSINT TOOLS - Benjamin](https://docs.google.com/spreadsheets/d/1AWBe47i25_6657AUHM46UmhoO5xxr96eEPCcuQlPy0M/edit?pli=1&gid=0#gid=0)
+[OSINT TOOLS - Benjamin Strick](https://docs.google.com/spreadsheets/d/1AWBe47i25_6657AUHM46UmhoO5xxr96eEPCcuQlPy0M/edit?pli=1&gid=0#gid=0)
