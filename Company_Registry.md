@@ -1,4 +1,4 @@
-### US Company Registry
+## US Company Registry
 
 [Kentucky](https://web.sos.ky.gov/ftsearch/)
 
@@ -44,7 +44,7 @@
 
 [SilverFlume Nevada's Business](https://esos.nv.gov/EntitySearch/OnlineEntitySearch)
 
-### EU Company Registry
+## EU Company Registry
 
 Detailed guide I have personally created on Medium to help you use each europian company registry. Enjoy!
 
@@ -62,7 +62,7 @@ Detailed guide I have personally created on Medium to help you use each europian
 
 [PL, PT, RO, SK, SI, CH, UK](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-pl-pt-ro-sk-si-a2d3b2aeae06)
 
-## Actual link to websites start here:
+### Actual link to websites start here:
 
 [Albania (NBC)](https://qkb.gov.al/search/search-in-trade-register/search-for-subject/)
 
