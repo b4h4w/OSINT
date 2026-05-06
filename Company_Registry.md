@@ -46,6 +46,15 @@
 
 ### EU Company Registry
 
+Detailed guide I have personally created on Medium to help you use each europian company registry. Enjoy!
+[ALB, AT, AZ, BE, BG](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-part-1-b7e34ea7f32a)
+[BA, HR, CY, CZ, DK](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-part-2-9613f593f7b6)
+[EE, FI, FR, GE, DE]( https://medium.com/osint-ambition/track-company-information-using-local-registries-eu-version-part-3-ee5b4dd7a51e)
+[GR, GG, HU, IS, IE](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-gr-gg-hu-is-ie-5ec74420c519)
+[IM, IT, JE, LV, LI](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-im-it-je-lv-li-18349e3a6118)
+[LT, LU, MT, NL, NO](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-lt-lu-mt-nl-no-564e083bd711)
+[PL, PT, RO, SK, SI, CH, UK](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-pl-pt-ro-sk-si-a2d3b2aeae06)
+
 [Denmark](https://datacvr.virk.dk/data/?language=en-gb)
 
 [Estonia](https://ariregister.rik.ee/index?lang=eng)
