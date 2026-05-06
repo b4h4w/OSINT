@@ -47,6 +47,7 @@
 ### EU Company Registry
 
 Detailed guide I have personally created on Medium to help you use each europian company registry. Enjoy!
+
 [ALB, AT, AZ, BE, BG](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-part-1-b7e34ea7f32a)
 
 [BA, HR, CY, CZ, DK](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-part-2-9613f593f7b6)
@@ -61,6 +62,15 @@ Detailed guide I have personally created on Medium to help you use each europian
 
 [PL, PT, RO, SK, SI, CH, UK](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-pl-pt-ro-sk-si-a2d3b2aeae06)
 
+## Actual link to websites start here:
+
+[Albania (NBC)](https://qkb.gov.al/search/search-in-trade-register/search-for-subject/)
+
+[Azerbijan](https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp)
+
+[Bosnia (associations and foundations)](http://zbirniregistri.gov.ba/Home)
+
+[Bosnia - List of bankruptcy trustees](https://www.fmp.gov.ba/hr/569.html)
 
 [Denmark](https://datacvr.virk.dk/data/?language=en-gb)
 
@@ -92,6 +102,10 @@ Detailed guide I have personally created on Medium to help you use each europian
 
 [Finland](https://www.ytj.fi/en/)
 
+[Georgia](https://enreg.reestri.gov.ge/main.php?m=new_index&l=en)
+
+[Greece - GEMI](https://az-publicity-dev.chamber.cloud/)
+
 [Germany](https://www.unternehmensregister.de/ureg/?submitaction=language&language=en)
 
 [Greece (Verify Document)](https://echamber.acci.gr/echamberEBEA/welcome/index)
@@ -103,6 +117,8 @@ Detailed guide I have personally created on Medium to help you use each europian
 [Hungary (Soletrader)](https://www.nyilvantarto.hu/evny-lekerdezo/)
 
 [Iceland](https://www.skatturinn.is/fyrirtaekjaskra/)
+
+[Ireland](https://core.cro.ie/)
 
 [Isle of Man](https://services.gov.im/ded/services/companiesregistry/companysearch.iom)
 
@@ -124,9 +140,15 @@ Detailed guide I have personally created on Medium to help you use each europian
 
 [Netherland](https://www.kvk.nl/zoeken/?source=all&q=&start=0&site=kvk2014)
 
+[Norway](https://www.brreg.no/en/about-us-2/our-registers/)
+
 [Norway (Soletrader)](https://www.proff.no/)
 
 [Poland (KRS)](https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/)
+
+[Poland (CEIDG)](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
+
+[Poland (KRS or CEIDG)](https://www.biznes.gov.pl/en/wyszukiwarka-firm/)
 
 [Portugal (Código da certidão a aceder)](https://eportugal.gov.pt/empresas/Services/Online/Pedidos.aspx?service=CCP)
 
@@ -148,22 +170,3 @@ Detailed guide I have personally created on Medium to help you use each europian
 
 [UK](https://find-and-update.company-information.service.gov.uk/)
 
-[Albania (NBC)](https://qkb.gov.al/search/search-in-trade-register/search-for-subject/)
-
-[Azerbijan](https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp)
-
-[Bosnia (associations and foundations)](http://zbirniregistri.gov.ba/Home)
-
-[Bosnia - List of bankruptcy trustees](https://www.fmp.gov.ba/hr/569.html)
-
-[Georgia](https://enreg.reestri.gov.ge/main.php?m=new_index&l=en)
-
-[Greece - GEMI](https://az-publicity-dev.chamber.cloud/)
-
-[Ireland](https://core.cro.ie/)
-
-[Norway](https://www.brreg.no/en/about-us-2/our-registers/)
-
-[Poland (CEIDG)](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
-
-[Poland (KRS or CEIDG)](https://www.biznes.gov.pl/en/wyszukiwarka-firm/)
