@@ -1,4 +1,4 @@
-### Miscellaneous
+### Sanctions Screening
 
 [FATF-recommendations.html](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html)
 
@@ -13,6 +13,7 @@
 [fincen](https://fincen.gov/)
 
 [EU Law Tracker](https://law-tracker.europa.eu/procedure/2021_250?lang=en)
+[Open Sanctions](https://www.opensanctions.org/)
 
 ### Financial Regulators
 
