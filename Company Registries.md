@@ -46,7 +46,7 @@
 
 ## EU Company Registry
 
-Detailed guide I have personally created on Medium to help you use each europian company registry. Enjoy!
+Detailed guide I have personally created on Medium to help you use each european company registry. Enjoy!
 
 [ALB, AT, AZ, BE, BG](https://medium.com/the-first-digit/track-company-information-using-local-registries-eu-version-part-1-b7e34ea7f32a)
 
